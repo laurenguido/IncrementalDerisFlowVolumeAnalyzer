@@ -10,3 +10,6 @@ The processes for the IncrementalDebrisFlowVolumeAnalyzer have been subdivided i
 4) Prepare_Path.py
 5) Apply_Modified_Voronoi.py
 6) Estimate_Volume_and_Plot.py
+
+
+Current objectives and ongoing work include standardizing function calls and improving efficiency to reduce the number of scripts. 
