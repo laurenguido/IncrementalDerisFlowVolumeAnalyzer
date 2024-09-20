@@ -17,5 +17,6 @@ The processes for the IncrementalDebrisFlowVolumeAnalyzer have been subdivided i
 5) Apply_Modified_Voronoi.py
 6) Estimate_Volume_and_Plot.py
 
+The files in this repo have been developed to handle simple (non-branching) as well as complex, multi-strahler-order branching debris flow paths.
 
 Current objectives and ongoing work include standardizing function calls and improving efficiency to reduce the number of scripts. 
