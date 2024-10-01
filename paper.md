@@ -1,5 +1,5 @@
 ---
-title: 'IncrementalDebrisFlowVolumeAnalyzer: A Python tool for estimating volumes along a debris flow path' add to test
+title: 'IncrementalDebrisFlowVolumeAnalyzer: A Python tool for estimating volumes along a debris flow path'
 
 tags:
   - Python
