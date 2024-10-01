@@ -31,27 +31,13 @@ The `IncrementalDebrisFlowVolumeAnalyzer` is a Python tool for estimating intra-
 
 The `IncrementalDebrisFlowVolumeAnalyzer` was designed to be used by geohazard and geomorphology researchers in tandem with external data, field work, and geomorphometric analyses. Students may also use this tool to gain familiarity with debris flow hazards, change detection data types, and geospatial data manipulationin Python with hands-on application to real world problems. 
 
-The `IncrementalDebrisFlowVolumeAnalyzer` has been used in multiple forthcoming scientific publications, and has been previously presented on [@Guido:2024]. This work builds off the concepts of volume estimation demonstrated by [@Scheip & Wegmann:2023], with improvemnts in standardized sample areas, ability to handle complex tributary systems, referencing to hydrological locations in the watershed, and increasing the capacity for automation. These improvements, combined with the growing needto investigate intra-channel debris flow dynamics and increasing availability ofhigh-resolution topographic data, will enable exciting scientific exploration and developemnts in mitigation, modeling, and hazard prediction in debris flow and geohazard research. 
+The `IncrementalDebrisFlowVolumeAnalyzer` has been used in multiple forthcoming scientific publications, and has been previously presented on (Guido:2024). This work builds off the concepts of volume estimation demonstrated by (@Scheip & Wegmann:2023), with improvemnts in standardized sample areas, ability to handle complex tributary systems, referencing to hydrological locations in the watershed, and increasing the capacity for automation. These improvements, combined with the growing needto investigate intra-channel debris flow dynamics and increasing availability ofhigh-resolution topographic data, will enable exciting scientific exploration and developemnts in mitigation, modeling, and hazard prediction in debris flow and geohazard research. 
 
 
 # Graphical Summary 
 
 ![This figure illustrates an overview of the `IncrementalDebrisFlowVolumeAnalyzer` functionality. Pre-processing of lidar (or other change detection) data may be required depending on user needs.](flow.png)
 
-
-# Citations
-
-Citations to entries in paper.bib should be in
-[rMarkdown](http://rmarkdown.rstudio.com/authoring_bibliographies_and_citations.html)
-format.
-
-If you want to cite a software repository URL (e.g. something on GitHub without a preferred
-citation) then you can do it with the example BibTeX entry below for @fidgit.
-
-For a quick reference, the following citation commands can be used:
-- `@author:2001`  ->  "Author et al. (2001)"
-- `[@author:2001]` -> "(Author et al., 2001)"
-- `[@author1:2001; @author2:2001]` -> "(Author1 et al., 2001; Author2 et al., 2002)"
 
 # Acknowledgements
 
