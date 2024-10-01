@@ -1,3 +1,4 @@
+---
 title: 'IncrementalDebrisFlowVolumeAnalyzer: A Python tool for estimating volumes along a debris flow path'
 
 tags:
@@ -10,8 +11,7 @@ tags:
 authors:
   - name: Lauren E. Guido
     orcid: 0000-0003-4449-560X
-    equal-contrib: true
-    affiliation: 1
+    affiliation: '1'
 
 affiliations:
  - name: Colorado School of Mines, Department of Geology and Geological Engineering, Golden, CO, USA
@@ -19,6 +19,7 @@ affiliations:
 
 date: 29 September 2024
 bibliography: paper.bib
+---
 
 # Summary
 
@@ -34,7 +35,10 @@ The `IncrementalDebrisFlowVolumeAnalyzer` has been used in multiple forthcoming 
 
 
 # Graphical Summary 
-![This figure illustrates an overview of the `IncrementalDebrisFlowVolumeAnalyzer` functionality. Pre-processing of lidar (or other change detection) data may be required depending on user needs.](flow.png)
+
+![This figure illustrates an overview of the `IncrementalDebrisFlowVolumeAnalyzer` functionality. Pre-processing of lidar (or other change detection) data may be required depending on user needs.]
+
+(flow.png)
 
 
 # Citations
