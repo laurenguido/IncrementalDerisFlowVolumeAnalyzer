@@ -1,10 +1,12 @@
 title: 'IncrementalDebrisFlowVolumeAnalyzer: A Python tool for estimating volumes along a debris flow path'
+
 tags:
   - Python
   - geohazards
   - debris flow
   - erosion and deposition
   - geomorphology
+
 authors:
   - name: Lauren E. Guido
     orcid: 0000-0003-4449-560X
