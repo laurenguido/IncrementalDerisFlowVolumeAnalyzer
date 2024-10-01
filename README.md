@@ -10,12 +10,12 @@ For analysis the user will need:
 
 The processes for the IncrementalDebrisFlowVolumeAnalyzer have been subdivided into 6 scripts to help with run times, trouble shooting, and batch processing. These should be run in the following order:
 
-1) Las2Ras.py
-2) Process_Watersheds.py
-3) Generate_Query_Points.py
-4) Prepare_Path.py
-5) Apply_Modified_Voronoi.py
-6) Estimate_Volume_and_Plot.py
+1) 01_Las2Ras.py
+2) 02_Process_Watersheds.py
+3) 03_Generate_Query_Points.py
+4) 04_Prepare_Path.py
+5) 05_Apply_Modified_Voronoi.py
+6) 06_Estimate_Volume_and_Plot.py
 
 The files in this repo have been developed to handle simple (non-branching) as well as complex, multi-strahler-order branching debris flow paths.
 
