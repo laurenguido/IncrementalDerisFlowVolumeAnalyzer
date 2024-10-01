@@ -40,7 +40,7 @@ The `IncrementalDebrisFlowVolumeAnalyzer` has been used in multiple forthcoming 
 These improvements, combined with the growing need to investigate intra-channel debris flow dynamics and increasing availability ofhigh-resolution topographic data, will enable exciting scientific exploration and developemnts in mitigation, modeling, and hazard prediction in debris flow and geohazard research. 
 
 
-# Graphical Summary (Figure 1)
+# Graphical Summary
 
 ![This figure illustrates an overview of the `IncrementalDebrisFlowVolumeAnalyzer` functionality. Pre-processing of lidar (or other change detection) data may be required depending on user needs.](flow.png)
 
