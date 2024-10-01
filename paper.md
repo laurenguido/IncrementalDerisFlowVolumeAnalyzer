@@ -36,9 +36,7 @@ The `IncrementalDebrisFlowVolumeAnalyzer` has been used in multiple forthcoming 
 
 # Graphical Summary 
 
-![This figure illustrates an overview of the `IncrementalDebrisFlowVolumeAnalyzer` functionality. Pre-processing of lidar (or other change detection) data may be required depending on user needs.]
-
-(flow.png)
+![This figure illustrates an overview of the `IncrementalDebrisFlowVolumeAnalyzer` functionality. Pre-processing of lidar (or other change detection) data may be required depending on user needs.](flow.png)
 
 
 # Citations
