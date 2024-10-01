@@ -23,7 +23,7 @@ bibliography: paper.bib
 
 # Summary
 
-Debris flows are common, costly, and deadly post wildfire hazards. As wildfire activity is expected to increase in the coming decades [@westerling; @oconn; @westerling2; @singleton; @mueller; @IPCC] (Westerling et al., 2006; O’Connor et al., 2014; Westerling, 2016; Singleton et al., 2019; Mueller et al., 2020; IPCC, 2023), a precipitous increase post-fire debris flow hazards is expected. The tool presented here allows for the semi-automated estimation of erosional and depositional volumes along the path of a debris flow for use in ongoing research which aims to better understand the intra-channel mechanisms of bulking and deposition. Understanding these field-scale mechanics will play an important role in better focusing mitigation efforts, improving modeling for runout and hazard prediction, and predicting locations of volume growth or decline. 
+Debris flows are common, costly, and deadly post wildfire hazards. As wildfire activity is expected to increase in the coming decades [@westerling; @oconn; @westerling2; @singleton; @mueller; @IPCC], a precipitous increase post-fire debris flow hazards is expected. The tool presented here allows for the semi-automated estimation of erosional and depositional volumes along the path of a debris flow for use in ongoing research which aims to better understand the intra-channel mechanisms of bulking and deposition. Understanding these field-scale mechanics will play an important role in better focusing mitigation efforts, improving modeling for runout and hazard prediction, and predicting locations of volume growth or decline. 
 
 # Statement of need
 
