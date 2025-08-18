@@ -43,22 +43,22 @@ keywords = ["hazards",
     "flow path",
     "debris flow"]
 dependencies = [
-    "laspy>=2.0.0",
-    "numpy>=1.21.0",
-    "rasterio>=1.2.0",
-    "fiona>=1.8.0",
-    "shapely>=1.7.0",
-    "matplotlib>=3.4.0",
-    "pysheds>=0.3.4",
-    "pyproj>=3.0.0",
-    "scipy>=1.7.0"
+    "laspy",
+    "numpy",
+    "rasterio",
+    "fiona",
+    "shapely",
+    "matplotlib",
+    "pysheds",
+    "pyproj",
+    "scipy"
 ]
 
 [project.urls]
-Homepage = "https://github.com/laurenguido/idfva"
-"Source Code" = "https://github.com/laurenguido/idfva"
-"Bug Tracker" = "https://github.com/laurenguido/idfva/issues"
-Documentation = "https://idfva.readthedocs.io"
+Homepage = "https://https://github.com/laurenguido/IncrementalDerisFlowVolumeAnalyzer"
+"Source Code" = "https://https://github.com/laurenguido/IncrementalDerisFlowVolumeAnalyzer/tree/main/idfva/src/idfva"
+"Bug Tracker" = "https://https://github.com/laurenguido/IncrementalDerisFlowVolumeAnalyzer/blob/main/CHANGELOG.md"
+Documentation = "https://https://csdms.colorado.edu/wiki/Model:IncrementalDebrisFlowVolumeAnalyzer"
 Download = "https://pypi.org/project/idfva/#files"
 
 [project.optional-dependencies]
