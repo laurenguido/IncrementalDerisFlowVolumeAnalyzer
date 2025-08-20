@@ -1,6 +1,6 @@
 # IncrementalDerisFlowVolumeAnalyzer
 
-This repo is for code associated with the IncrementalDebrisFlowVolumeAnalyzer. This code is fully functional. Additional features may be added, and the repo updated, as dissertation work using this code is ongoing. All code in the repo is written in Python. Please email laurenmiller@mines.edu with questions.
+This repo is for code associated with the IncrementalDebrisFlowVolumeAnalyzer (idfva). This code is fully functional; additional features may be added, and the repo updated, as dissertation work using this code is ongoing. All code in the repo is written in Python. Please email laurenmiller@mines.edu with questions.
 
 For analysis the user will need:
 
@@ -8,7 +8,9 @@ For analysis the user will need:
 - A DEM of the AOI
 - A flow path of interest
 
-The processes for the IncrementalDebrisFlowVolumeAnalyzer have been subdivided into 6 scripts to help with run times, trouble shooting, and batch processing. These should be run in the following order:
+A packaged version of the code is available at https://pypi.org/project/idfva/, with the associated source code on this repo: https://github.com/laurenguido/IncrementalDerisFlowVolumeAnalyzer/tree/main/idfva.
+
+The 6 current modules in the idfva are available on this repo in the 'scripts' folder for alternative accessability. These should be run in the following order:
 
 1) 01_Las2Ras.py
 2) 02_Process_Watersheds.py
@@ -16,6 +18,8 @@ The processes for the IncrementalDebrisFlowVolumeAnalyzer have been subdivided i
 4) 04_Prepare_Path.py
 5) 05_Apply_Modified_Voronoi.py
 6) 06_Estimate_Volume_and_Plot.py
+
+It is recomended that for the most up-to-date version of the package, users download via pip/PyPI. 
 
 The files in this repo have been developed to handle simple (non-branching) as well as complex, multi-strahler-order branching debris flow paths.
 
