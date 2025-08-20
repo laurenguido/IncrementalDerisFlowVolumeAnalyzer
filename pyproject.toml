@@ -56,7 +56,7 @@ dependencies = [
 
 [project.urls]
 Homepage = "https://https://github.com/laurenguido/IncrementalDerisFlowVolumeAnalyzer"
-"Source Code" = "https://https://github.com/laurenguido/IncrementalDerisFlowVolumeAnalyzer/tree/main/idfva/src/idfva"
+"Source Code" = "https://https://github.com/laurenguido/IncrementalDerisFlowVolumeAnalyzer/tree/main/idfva"
 "Bug Tracker" = "https://https://github.com/laurenguido/IncrementalDerisFlowVolumeAnalyzer/blob/main/CHANGELOG.md"
 Documentation = "https://https://csdms.colorado.edu/wiki/Model:IncrementalDebrisFlowVolumeAnalyzer"
 Download = "https://pypi.org/project/idfva/#files"
