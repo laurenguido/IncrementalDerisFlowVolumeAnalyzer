@@ -1,6 +1,6 @@
 # IncrementalDerisFlowVolumeAnalyzer
 
-This repo is for code associated with the IncrementalDebrisFlowVolumeAnalyzer (idfva). This code is fully functional; additional features may be added, and the repo updated, as dissertation work using this code is ongoing. All code in the repo is written in Python. Please email laurenmiller@mines.edu with questions.
+This repo is for code associated with the IncrementalDebrisFlowVolumeAnalyzer (idfva). This code is fully functional; additional features may be added, and the repo updated, as research using this code is ongoing. All code in the repo is written in Python. Please email laurenmiller@mines.edu with questions.
 
 For analysis the user will need:
 
@@ -10,7 +10,16 @@ For analysis the user will need:
 
 A packaged version of the code is available at https://pypi.org/project/idfva/, with the associated source code on this repo: https://github.com/laurenguido/IncrementalDerisFlowVolumeAnalyzer/tree/main/idfva.
 
-The 6 current modules in the idfva are available on this repo in the 'scripts' folder for alternative accessability. These should be run in the following order:
+## Installation
+
+You can install **idfva** directly from [PyPI](https://pypi.org/project/idfva/):
+
+```bash
+pip install idfva
+```
+## Additional Documentation
+
+All six idfva modules are provided in the scripts folder, which allows direct access to individual scripts and serves as a built-in test suite. Run the scripts in the following order:
 
 1) 01_Las2Ras.py
 2) 02_Process_Watersheds.py
